@@ -1,1 +1,1 @@
-# Hand-Written-Equation-Solver
+# Handwritten-Equation-Solver
